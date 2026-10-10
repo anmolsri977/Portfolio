@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#090D16"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="#0C121E" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <circle cx="950" cy="200" r="280" fill="#10B981" fill-opacity="0.08" filter="blur(60px)"/>
+  <rect x="80" y="80" width="56" height="56" rx="14" fill="#111827" stroke="#10B981" stroke-opacity="0.4" stroke-width="2"/>
+  <text x="108" y="117" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-weight="800" font-size="22" fill="#10B981">AKS</text>
+  <text x="80" y="240" font-family="'Inter', system-ui, sans-serif" font-weight="800" font-size="56" fill="#F8FAFC" letter-spacing="-1.5">Anmol Kumar Srivastava</text>
+  <text x="80" y="310" font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="28" fill="#34D399">Java &amp; Spring Boot Developer</text>
+  <text x="80" y="380" font-family="'Inter', system-ui, sans-serif" font-weight="400" font-size="22" fill="#94A3B8">Computer Science &amp; Engineering Student | ABES Engineering College</text>
+  <text x="80" y="480" font-family="'JetBrains Mono', monospace" font-size="18" fill="#64748B">Java 21 • Spring Boot • React • MySQL • REST APIs</text>
+</svg>
